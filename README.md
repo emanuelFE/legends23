@@ -14,7 +14,7 @@
   
 <-(linguagems usadas)
 
-<img align = "right" alt = "legends23" height = "150" style = "border-radius: 50px;" src = "https://assets.puzzlefactory.pl/puzzle/355/785/original.jpg">
+<img align = "right" alt = "legends23" height = "150" style = "border-radius: 50px;" src = "https://media.giphy.com/media/wRmOK4J2261gI/giphy.gif">
 </div>
   
 
