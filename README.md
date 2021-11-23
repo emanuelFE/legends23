@@ -2,7 +2,7 @@
 ##
 - 🔭 estou trabalhando com 
 - 📗 hoje estou estudando 
-- 🤔 pronomes:ele/dela 
+- 🤔 o que tem para hoje?
 ##
 <div align = "center">
   
